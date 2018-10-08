@@ -1,4 +1,5 @@
 # Bats' serializer
+
 Some utilities for serializing python objects in a safe and efficient manner.
 
 serialize.py has methods for safe, compressed, numpy aware, binary / json serialization with basic object support.
