@@ -33,9 +33,11 @@ z = json.loads(y)
 print(z.z)
 print(type(z.z))
 
+"""
 outputs:
 [1. 1. 1. 1.]
 <class 'numpy.ndarray'>
 [1.0, 1.0, 1.0, 1.0]
+"""
 <class 'list'>
 ```
