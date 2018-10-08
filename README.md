@@ -10,6 +10,7 @@ Classes must be registered with the @serialized decorator in order for them to b
 
 Use:
 
+```python
 import numpy as np
 from serialize import serialized, json, snappy_msgpack
 
@@ -37,3 +38,4 @@ outputs:
 <class 'numpy.ndarray'>
 [1.0, 1.0, 1.0, 1.0]
 <class 'list'>
+```
